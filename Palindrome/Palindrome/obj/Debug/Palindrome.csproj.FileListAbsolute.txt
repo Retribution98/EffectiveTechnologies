@@ -1,0 +1,14 @@
+C:\Users\kiril\Documents\GitHub\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\kiril\Documents\GitHub\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\kiril\Documents\GitHub\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\kiril\Documents\GitHub\Palindrome\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\Users\kiril\Documents\GitHub\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Documents\GitHub\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\kiril\Documents\GitHub\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\kiril\Documents\GitHub\EffectiveTechnology\Palindrome\Palindrome\bin\Debug\Palindrome.exe.config
+C:\Users\kiril\Documents\GitHub\EffectiveTechnology\Palindrome\Palindrome\bin\Debug\Palindrome.exe
+C:\Users\kiril\Documents\GitHub\EffectiveTechnology\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\kiril\Documents\GitHub\EffectiveTechnology\Palindrome\Palindrome\obj\Debug\Palindrome.csprojAssemblyReference.cache
+C:\Users\kiril\Documents\GitHub\EffectiveTechnology\Palindrome\Palindrome\obj\Debug\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Documents\GitHub\EffectiveTechnology\Palindrome\Palindrome\obj\Debug\Palindrome.exe
+C:\Users\kiril\Documents\GitHub\EffectiveTechnology\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
